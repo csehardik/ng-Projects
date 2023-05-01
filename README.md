@@ -1,3 +1,5 @@
+This Repository contains code for the Calculator I made Using AngULAR(ng).
+
 # Mycalc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
